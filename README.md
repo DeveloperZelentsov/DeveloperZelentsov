@@ -60,8 +60,8 @@ me.sayHi()
 
 ## 🗂️ Highlight Projects
 
-<a href="https://github.com/DeveloperZelentsov/AiSwiftAssist">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeveloperZelentsov&repo=AiSwiftAssist&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="AiSwiftAssist" />
+<a href="https://github.com/DeveloperZelentsov/SwiftAssistant">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeveloperZelentsov&repo=SwiftAssistant&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="AiSwiftAssist" />
 </a>
 
 ## 📌 Other Noteworthy Projects
