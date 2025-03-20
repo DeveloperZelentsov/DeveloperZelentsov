@@ -60,4 +60,12 @@ me.sayHi()
 
 ## 🗂️ Highlight Projects
 
-[**AiSwiftAssist**](https://github.com/DeveloperZelentsov/AiSwiftAssist) – AI-powered Swift Assistant app built with Swift and SwiftUI.
+<a href="https://github.com/DeveloperZelentsov/AiSwiftAssist">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeveloperZelentsov&repo=AiSwiftAssist&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="AiSwiftAssist" />
+</a>
+
+## 📌 Other Noteworthy Projects
+
+- [**SMSHubAPI**](https://github.com/DeveloperZelentsov/SMSHubAPI) – A Swift package providing convenient interaction with the SmsHub API for virtual number management.
+- [**SMSActivateAPI**](https://github.com/DeveloperZelentsov/SMSActivateAPI) – Swift library to easily integrate and manage SMS Activate API functionalities.
+- [**OnlineSimAPI**](https://github.com/DeveloperZelentsov/OnlineSimAPI) – Simple Swift interface to interact seamlessly with the OnlineSim API for virtual numbers.
