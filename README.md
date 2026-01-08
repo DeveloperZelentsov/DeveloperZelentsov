@@ -3,13 +3,16 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=aleksei-swift.dev)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
+<!-- Typing SVG - анимация печатающегося текста -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&width=500&lines=iOS+Developer;Swift+%7C+SwiftUI+%7C+Go;Building+apps+that+matter)](https://git.io/typing-svg)
+
 ```swift
 // Swift Developer Profile
 
 struct Developer {
     let name = "Aleksei"
     let role = "Swift Developer"
-    let languagesSpoken = ["en_US"]
+    let languagesSpoken = ["en_US", "ru_RU"]
 
     func sayHi() {
         print("Thanks for visiting my profile! Feel free to explore my Swift projects.")
@@ -19,53 +22,49 @@ struct Developer {
 let me = Developer()
 me.sayHi()
 ```
-## 📝 Blogs
-
-- Coming soon: Personal website and tech blog.
-- Swift & Vapor notes: work in progress!
 
 ## 🔧 Technologies & Tools
 
-**Programming Languages:**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=swift,apple,go,firebase,git,github,postman,figma,discord,vscode,docker,postgres,mysql,sqlite&theme=dark" />
+  </a>
+</p>
 
-![Swift](https://img.shields.io/badge/Swift-informational?style=flat&logo=swift&logoColor=white&color=FA7343)
+---
 
-**iOS Development:**
+### 📱 Swift / iOS Development
 
-![SwiftUI](https://img.shields.io/badge/SwiftUI-informational?style=flat&logo=swift&logoColor=white&color=blue)  
-![UIKit](https://img.shields.io/badge/UIKit-informational?style=flat&logo=uikit&logoColor=white&color=2396F3)  
-![Combine](https://img.shields.io/badge/Combine-informational?style=flat&logo=swift&logoColor=white&color=red)  
-![Concurrency](https://img.shields.io/badge/Swift_Concurrency-informational?style=flat&logo=swift&logoColor=white&color=orange)  
-![GCD](https://img.shields.io/badge/GCD-informational?style=flat&logo=swift&logoColor=white&color=green)  
-![CoreData](https://img.shields.io/badge/CoreData-informational?style=flat&logo=apple&logoColor=white&color=gray)  
+![SwiftUI](https://img.shields.io/badge/SwiftUI-informational?style=flat&logo=swift&logoColor=white&color=blue)
+![UIKit](https://img.shields.io/badge/UIKit-informational?style=flat&logo=uikit&logoColor=white&color=2396F3)
+![Combine](https://img.shields.io/badge/Combine-informational?style=flat&logo=swift&logoColor=white&color=red)
+![Swift Concurrency](https://img.shields.io/badge/Swift_Concurrency-informational?style=flat&logo=swift&logoColor=white&color=orange)
+![Swift Testing](https://img.shields.io/badge/Swift_Testing-informational?style=flat&logo=swift&logoColor=white&color=5C5C5C)
+![CoreData](https://img.shields.io/badge/CoreData-informational?style=flat&logo=apple&logoColor=white&color=gray)
 ![SwiftData](https://img.shields.io/badge/SwiftData-informational?style=flat&logo=swift&logoColor=white&color=red)
+![StoreKit 2](https://img.shields.io/badge/StoreKit_2-informational?style=flat&logo=apple&logoColor=white&color=0D96F6)
+![Firebase](https://img.shields.io/badge/Firebase-informational?style=flat&logo=firebase&logoColor=white&color=FFCA28)
 
-**Server-Side Development:**
+### 🐹 Go Development
 
-![C#](https://img.shields.io/badge/C%23-informational?style=flat&logo=csharp&logoColor=white&color=239120)
-![Vapor](https://img.shields.io/badge/Vapor-informational?style=flat&logo=vapor&logoColor=white&color=blueviolet)
+![Gin](https://img.shields.io/badge/Gin-informational?style=flat&logo=go&logoColor=white&color=00ADD8)
+![GORM](https://img.shields.io/badge/GORM-informational?style=flat&logo=go&logoColor=white&color=00ADD8)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1)
 
-**Databases:**
+---
 
-![MySQL](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1)  
-![SQLite](https://img.shields.io/badge/SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=003B57)
+## 📫 Connect with me
 
-**Principles & Practices:**
+<p align="center">
+  <a href="https://www.linkedin.com/in/zelentsovalexey/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://t.me/ios4you">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
 
-- SOLID principles
-- MVVM, Viper architecture
-- Protocol-oriented programming
-- Unit & UI Testing
-- CI/CD Automation
-
-## 🗂️ Highlight Projects
-
-<a href="https://github.com/DeveloperZelentsov/SwiftAssistant">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeveloperZelentsov&repo=SwiftAssistant&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="AiSwiftAssist" />
-</a>
-
-## 📌 Other Noteworthy Projects
-
-- [**SMSHubAPI**](https://github.com/DeveloperZelentsov/SMSHubAPI) – A Swift package providing convenient interaction with the SmsHub API for virtual number management.
-- [**SMSActivateAPI**](https://github.com/DeveloperZelentsov/SMSActivateAPI) – Swift library to easily integrate and manage SMS Activate API functionalities.
-- [**OnlineSimAPI**](https://github.com/DeveloperZelentsov/OnlineSimAPI) – Simple Swift interface to interact seamlessly with the OnlineSim API for virtual numbers.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DeveloperZelentsov&style=flat-square&color=blue" alt="Profile views" />
+</p>
